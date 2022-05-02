@@ -1,6 +1,6 @@
 <div>
 
-<h1 align="center">Oi Tudo bem? Eu sou o <i> Renan Passos Silva</i></a> 😃️</h1>
+<h1 align="center">Oi Tudo bem? Eu sou o <i>Renan Passos Silva</i></a> 😃️</h1>
 
 <p align="center">Estudo Técnico desenvolvedor de sistemas<span> 👉🏽️</span>
 
@@ -30,9 +30,9 @@ Trybe
 
 <a href="https://github.com/passosrenan">
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Leandro5610&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=passosrenan&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro5610&theme=dracula&hide_border=false&&layout=compact"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=passosrenan&theme=dracula&hide_border=false&&layout=compact"/>
 
 </a>
 
