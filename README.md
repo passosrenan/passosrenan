@@ -16,7 +16,7 @@
 
 <h1 align="center">
 
-Trybe
+<!--Trybe
 
 </h1>
 
