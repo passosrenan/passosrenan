@@ -59,15 +59,7 @@
 <img align="center" alt="Wa-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
 
 <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  
-<img align="center" alt="nodejs" height="30" width="40" src=="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
-  
-<img align="center" alt="spring" height="30" width="40" src=="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
-
-<img align="center" alt="github" height="35" width="35" src="/assets/GitHub.png">
-
-<img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-
+ 
 </div><br>
 <div align="center">
 
